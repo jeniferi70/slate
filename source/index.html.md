@@ -18,4 +18,4 @@ search: true
 
 # Introduction
 
-Welcome to the XPO Logistics Connect API documenation.
+Welcome to the XPO Logistics Connect API documentation.
