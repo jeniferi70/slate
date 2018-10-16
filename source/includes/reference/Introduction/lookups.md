@@ -1,6 +1,6 @@
-# Lookups
+## Lookups
 
-## Business Units
+### Business Units
 
 The following are the valid values for business unit
 

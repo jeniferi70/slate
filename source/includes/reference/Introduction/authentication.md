@@ -1,4 +1,4 @@
-# Authentication
+## Authentication
 
 > To authorize, use this code:
 
@@ -20,9 +20,9 @@ curl "https://login.authxpo.com/connect/token"
 
 The XPO API is JSON based. In order to make an authenticated call to the API, you must include your access token with the call.
 
-## Registering Appliction
+### Registering the Application
 
-In order to use the XPO API, you must be a current XPO partner. To request access to the API please contact your XPO represenative.
+To use the XPO API, you must be a current XPO partner. To request access to the API please contact your XPO represenative.
 
 Your XPO representative, will provide you with two keys:
 

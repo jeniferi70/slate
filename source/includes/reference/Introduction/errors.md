@@ -1,4 +1,4 @@
-# Errors
+## Errors
 
 The Connect API uses the following error codes:
 
